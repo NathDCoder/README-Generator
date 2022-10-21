@@ -27,21 +27,29 @@ const generateMarkdown = require("./utils/generateMarkdown")
     {
         type:"input",
         message:"Usage Info?",
-        name:"Usage"
+        name:"usage"
 
     },
     {
         type:"input",
         message:"Contribution Guidelines?",
-        name:"Contributing"
+        name:"contributing"
 
     },
     {
         type:"input",
         message:"Test Instructions?",
-        name:"Testing"
+        name:"testing"
 
+    },
+    {
+        type:"list",
+        message:"license?",
+        name:"license",
+        choices:["MSC", "APACHE", "NONE", "PYTHON"]
+        
     }
+
 ])
     .then((data) => {
         console.log(data)
