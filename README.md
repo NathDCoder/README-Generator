@@ -1,4 +1,4 @@
-# 
+# Example
   ![LICENSE](https://img.shields.io/badge/LICENSE-MSC-SUCCESS)
 
   ## Table of contents
@@ -10,19 +10,19 @@
   - [Testing](#testing)
 
   ## Title
-  
+  Example
 
   ## Description
-  
+  Example
 
   ## Installation
-  
+  Example
 
   ## Usage
-  
+  Example
 
   ## Contributing
-  
+  Example
 
   ## Testing
-  
+  Example
