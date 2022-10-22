@@ -1,5 +1,5 @@
-# Example
-  ![LICENSE](https://img.shields.io/badge/LICENSE-MSC-SUCCESS)
+# TestProject
+  ![LICENSE](https://img.shields.io/badge/LICENSE-PYTHON-SUCCESS)
 
   ## Table of contents
   - [Title](#title)
@@ -10,19 +10,19 @@
   - [Testing](#testing)
 
   ## Title
-  Example
+  TestProject
 
   ## Description
-  Example
+  ReadmeGenerator
 
   ## Installation
-  Example
+  Type Node.Js to get started and fllow prompts
 
   ## Usage
-  Example
+  50MB
 
   ## Contributing
-  Example
+  Nathanael Thomas
 
   ## Testing
-  Example
+  run node index.js
